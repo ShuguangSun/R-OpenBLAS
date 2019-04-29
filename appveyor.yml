@@ -53,7 +53,7 @@ deploy:
   description: 'This is R, but compiled for Windows using OpenBLAS'
   provider: GitHub
   auth_token:
-    secure: 6VduGFAfk0LDLzJDnzCakW7vldMxkkaw4OHCYkFqyecDV9sKE+MdEP5Go4zpmt3c
+    secure: 97b2D2kGBPU9ASfvjrFFCkfMAfgS3jjo+7zW2hmJc6fTQBw/NgQE8G0Ha/hQsuBP
   artifact: /.*\.exe/
   draft: false
   prerelease: false
